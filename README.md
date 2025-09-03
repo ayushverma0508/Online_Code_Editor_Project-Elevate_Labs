@@ -38,7 +38,7 @@ open http://localhost:5173/
 - Code is not “perfect”, i wrote as i was learning 😅
 
 📅 Info:
- Made by: Ayush Verma
- Date: 30 Aug 2025
- Project Topic: Online Code Editor with Live Preview
- Elevate Labs Internship Project
+- Made by: Ayush Verma
+- Date: 30 Aug 2025
+- Project Topic: Online Code Editor with Live Preview
+- Elevate Labs Internship Project
