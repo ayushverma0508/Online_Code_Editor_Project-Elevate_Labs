@@ -1,4 +1,4 @@
-# Code Playground (mini online IDE):
+# Online_Code_Editor_Project-Elevate_Labs:
 
 This is a small project I made using **React + Vite** and also to test how Monaco editor works inside React.  
 It’s basically a mini **online code editor** where you can write HTML, CSS, JS and see live preview at the same time.
@@ -14,8 +14,9 @@ It’s basically a mini **online code editor** where you can write HTML, CSS, JS
 ### ⚙️ How to run:
 1. Clone the repo  
    ```bash
-   git clone https://github.com/ayushverma0508/code-playground.git
-   cd code-playground
+   git clone https://github.com/ayushverma0508/Online_Code_Editor_Project-Elevate_Labs.git
+   cd Online_Code_Editor_Project-Elevate_Labs
+
 
 Install deps:
 - bash
@@ -28,7 +29,7 @@ Run in dev mode:
 - npm run dev
 
 Output URL:
-open http://localhost:5173
+open http://localhost:5173/
 
 ⚠️ Notes:
 - Sometimes monaco editor takes a bit to load (don’t worry)
@@ -37,7 +38,7 @@ open http://localhost:5173
 - Code is not “perfect”, i wrote as i was learning 😅
 
 📅 Info:
-Made by: Ayush Verma
-Date: 30 Aug 2025
-Project Topic: Online Code Editor with Live Preview
-Elevate Labs Internship Project
+ Made by: Ayush Verma
+ Date: 30 Aug 2025
+ Project Topic: Online Code Editor with Live Preview
+ Elevate Labs Internship Project
